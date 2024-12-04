@@ -1,4 +1,4 @@
-# koop-cli-new-project
+# UGS Groundwater koop-cli-new-project
 
 A minimal Koop project template from [Koop CLI](https://github.com/koopjs/koop-cli).
 
